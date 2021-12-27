@@ -27,6 +27,10 @@ Here is an important detailed analysis over the weekdays and the hours on those,
 
 ![Details per Gender](https://user-images.githubusercontent.com/90433064/147489837-9a42a4b6-3900-4dc4-baf8-40a1d99e5b72.png)
 
-In the last visualization we can notice that the clients that use the service the most, are subscribers  
+In the last visualization we can notice that the clients that use the service the most, are subscribers and mainly males. In the heatmap we can notice that thursday is the most popular day on the week for the bikesharing service for this mentioned target.  
 
 **Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.**
+
+After all this previous analysis, we can see that there is a lot of opportunities to have a succesfull business with the bikesharing service. Nevertheless, we have to bear in mind that we shouldn't probably contemplate the same portion of users from the tourist market, since we know that NYC has a big advantage in that area during the whole year, versus the business market where Des Moines has been declared as the Best Place for Business from 2010. 
+
+Another thing that we should consider is the change on the transportation needs because the different seasons, since we just analized August as one of the primary months for this service in NYC, but we should contemplate as well the other side of the coin when probably the extreme weather wouldn't help to promote this service. So in that case, we should analize the needs for this season as well, maintenience for the bikes, less use on the service, etc. All the previous details are needed to make the real anual budget of the business.    
