@@ -19,6 +19,10 @@ Talking in general terms, the tendency is marked by the male users, since they r
 
 ![Details per customer 2](https://user-images.githubusercontent.com/90433064/147489257-0579a812-334a-47fa-ae32-b61e081b2532.png)
 
+Here is an important detailed analysis over the weekdays and the hours on those, when the customers use more frecquently the bikesharing service. And beyond that we can see that same analysis separately by gender needs.  
 
+![Details per Gender](https://user-images.githubusercontent.com/90433064/147489837-9a42a4b6-3900-4dc4-baf8-40a1d99e5b72.png)
+
+In the last visualization we can notice that the clients that use the service the most, are subscribers  
 
 **Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.**
