@@ -1,8 +1,12 @@
 # Bikesharing
 
 **Overview of the analysis: Explain the purpose of this analysis.**
-Having the opportunity to present the Bikesharing project to an investor, it is as good as that is a rare occurrence, indeed that is the main objective for searching efective tools of visualization for our analysis; so, once it occurs we expect to have the proper way to share the key points of our analysis and finally to convince to the investors
+Having the opportunity to present the Bikesharing project to an investor, it is as good as that is a rare occurrence, indeed that is the main objective for searching efective tools of visualization for our analysis; so once it occurs we expect to have the proper way to share the key points of our analysis and finally to convince to the investors
 of the excellent opportunity that would be to invest in the bikesharing business in Des Moines.
+
+For that purpose we have create our visualizations in Tableau:
+
+https://public.tableau.com/app/profile/grisell.tavitas/viz/Bikesharingchallenge/NYCStory?publish=yes
 
 **Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.**
 After going into some trends in NYC's behaviour related to this business, we can tell that: 
